@@ -9,7 +9,7 @@ I am driven by a curiosity for technology. My journey involves delving into the 
 - I'm currently pursuing my Master's in Computer Science.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bash,vim,docker,git,java,rust,c,js,html,css,vue,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bash,vim,docker,git,java,rust,c,js,html,css,vue,php,jenkins)](https://skillicons.dev)
 
 ## Currently Exploring
 

@@ -1,7 +1,5 @@
 # Hi, I'm john 
 
-I am driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
 ![john-sth's Stats](https://github-readme-stats.vercel.app/api?username=john-sth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me
@@ -19,4 +17,3 @@ I am driven by a curiosity for technology. My journey involves delving into the 
 - Rust
 
 Thanks for stopping by!
--->

@@ -7,7 +7,8 @@
 - I'm currently pursuing my Master's in Computer Science.
 
 ## Tech Stack
-![john's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth&show_icons=true&theme=gruvbox)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bash,vim,docker,git,java,rust,c,js,html,css,vue,php,jenkins)](https://skillicons.dev)
+
 ## Currently Exploring
 
 - Learning Full Stack Web Development

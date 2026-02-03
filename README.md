@@ -1,4 +1,4 @@
-![enter the void height="200" ](./enter-the-void-1.jpg)
+![enter the void height="100" ](./enter-the-void-1.jpg)
 # Hi, I'm john 
 
 ![john-sth's Stats](https://github-readme-stats.vercel.app/api?username=john-sth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)

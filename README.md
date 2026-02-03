@@ -1,6 +1,6 @@
 <img src="./enter-the-void-1.jpg" alt="Enter the Void" height="200">
 
-# Hi, I'm john 
+<h1 style="font-family: 'Georgia', serif;">Hey, I'm John.</h1>
 
 ![john-sth's Stats](https://github-readme-stats.vercel.app/api?username=john-sth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 

@@ -2,7 +2,7 @@
 
 <h1 style="font-family: 'Georgia', serif;">Hey, I'm John.</h1>
 
-![john-sth's Stats](https://github-readme-stats.vercel.app/api?username=john-sth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[!john-sth's Stats](https://github-readme-stats.vercel.app/api?username=john-sth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me
 

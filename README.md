@@ -2,7 +2,7 @@
     <img src="./enter-the-void-1.jpg" alt="Enter the Void" height="200">
 </div>
 
-<h1 style="font-family: 'Georgia', serif;" align="center">Hey, I'm John.</h1>
+<h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 
 [![john's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth)](https://github.com/anuraghazra/github-readme-stats)
 

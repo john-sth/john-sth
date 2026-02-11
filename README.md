@@ -2,10 +2,9 @@
     <img src="./enter-the-void-1.jpg" alt="Enter the Void" height="200">
 </div>
 
-<h1 style="font-family: 'Georgia', serif;">Hey, I'm John.</h1>
+<h1 style="font-family: 'Georgia', serif;" align="center">Hey, I'm John.</h1>
 
 [![john's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=john-sth)
 
 
 ## About Me
@@ -22,7 +21,7 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)

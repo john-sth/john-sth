@@ -30,6 +30,6 @@
 ---
 ## Links
 
-- [Website](https://thefossproject.com)
+- [My Website](https://thefossproject.com)
 
-[![john's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth)](https://github.com/anuraghazra/github-readme-stats)

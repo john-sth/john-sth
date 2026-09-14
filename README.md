@@ -5,12 +5,16 @@
 <h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 
 ## About Me
-- passionate about:
+- passionate about ... 
   - FLOSS software, 
   - Thinkpad tinkering 
   - Automation
   - OS Development
 
+---
+
+## Links
+- [My Website](https://johnsth.net)
 
 ---
 
@@ -22,15 +26,9 @@
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
----
-## Links
 
-- [My Website](https://thefossproject.com)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sth)](https://github.com/anuraghazra/github-readme-stats)

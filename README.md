@@ -5,7 +5,7 @@
 <h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 
 ## About Me
-- passionate about ... 
+- interested in ... 
   - FLOSS software, 
   - Thinkpad tinkering 
   - Automation

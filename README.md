@@ -1,15 +1,14 @@
 <div id="header" align="center">
     <img src="./enter-the-void-1.jpg" alt="Enter the Void" height="200">
+    <h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 </div>
-
-<h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## About Me
 I'm interested in ... 
@@ -19,15 +18,13 @@ I'm interested in ...
 - Automation
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## Links
 - [My Website](https://johnsth.net)
 
 </td>
-</tr>
-</table>
----
+<td width="33%" valign="top">
 
 ## Tech Stack
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
@@ -41,5 +38,11 @@ I'm interested in ...
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+
+
+</td>
+</tr>
+</table>
+
 
 

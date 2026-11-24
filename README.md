@@ -4,18 +4,29 @@
 
 <h1 style="font-family: 'Georgia', serif;" >Hey, I'm John.</h1>
 
-## About Me
-- interested in ... 
-  - FLOSS software, 
-  - Thinkpad tinkering 
-  - Automation
-  - OS Development
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## About Me
+I'm interested in ... 
+- Linux and FLOSS software
+- OS Development
+- Thinkpad tinkering 
+- Automation
+
+</td>
+<td width="50%" valign="top">
 
 ## Links
 - [My Website](https://johnsth.net)
 
+</td>
+</tr>
+</table>
 ---
 
 ## Tech Stack
